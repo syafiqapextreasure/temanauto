@@ -1,0 +1,8 @@
+{
+  "name": "temanauto", "version": "1.0.0", "private": true, "type": "module",
+  "description": "TemanAuto — accessible Malay car brokerage website",
+  "scripts": { "build": "node scripts/build.mjs", "dev": "node scripts/dev.mjs", "check": "node scripts/check.mjs", "preview:worker": "wrangler dev", "deploy": "npm run build && wrangler deploy", "test": "node --test --test-isolation=none tests/*.test.mjs" },
+  "devDependencies": { "wrangler": "4.158.0" },
+  "engines": { "node": ">=22.8" }
+}
+

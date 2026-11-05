@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.wrangler/
+.env*
+.dev.vars*
+!/.env.example
+fonts-source.css
+qa/
+references/
+__pycache__/

@@ -1,0 +1,15 @@
+import { mkdir, writeFile } from 'node:fs/promises';
+const endpoint='https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap';
+const res=await fetch(endpoint,{headers:{'User-Agent':'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'}});
+if(!res.ok) throw new Error(`Font CSS: ${res.status}`);
+const css=await res.text();
+const latin=css.split('/* latin */').at(-1);
+const url=latin.match(/url\((https:[^)]+)\)/)?.[1];
+if(!url) throw new Error('Latin font URL missing');
+const font=await fetch(url); if(!font.ok) throw new Error('Font download failed');
+await mkdir('public/fonts',{recursive:true});
+await writeFile('public/fonts/inter-latin-variable.woff2',Buffer.from(await font.arrayBuffer()));
+const license=await fetch('https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt');
+if(!license.ok) throw new Error('Font licence missing');
+await writeFile('public/fonts/OFL.txt',await license.text());
+console.log('Self-hosted Inter variable font and OFL license saved.');

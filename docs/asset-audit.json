@@ -1,0 +1,919 @@
+{
+  "asset_count": 55,
+  "assets": [
+    {
+      "name": "home-hero",
+      "file": "home-hero.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        470,
+        109,
+        985,
+        595
+      ],
+      "width": 515,
+      "height": 486,
+      "bytes": 305542,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Approved hero with baked Faham dulu slogan. Do not overlay another slogan."
+    },
+    {
+      "name": "service-broker",
+      "file": "service-broker.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        386,
+        114,
+        796,
+        467
+      ],
+      "width": 410,
+      "height": 353,
+      "bytes": 144532,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original Imej ilustrasi badge retained."
+    },
+    {
+      "name": "story-nadia",
+      "file": "story-nadia.webp",
+      "source": "03-Cerita-pelanggan.png",
+      "box": [
+        25,
+        485,
+        439,
+        865
+      ],
+      "width": 414,
+      "height": 380,
+      "bytes": 186276,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original Imej ilustrasi badge retained."
+    },
+    {
+      "name": "story-farhan",
+      "file": "story-farhan.webp",
+      "source": "03-Cerita-pelanggan.png",
+      "box": [
+        26,
+        991,
+        396,
+        1180
+      ],
+      "width": 370,
+      "height": 189,
+      "bytes": 83018,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original Imej ilustrasi badge retained."
+    },
+    {
+      "name": "story-siti",
+      "file": "story-siti.webp",
+      "source": "03-Cerita-pelanggan.png",
+      "box": [
+        421,
+        991,
+        794,
+        1180
+      ],
+      "width": 373,
+      "height": 189,
+      "bytes": 95686,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original Imej ilustrasi badge retained."
+    },
+    {
+      "name": "faq-helper",
+      "file": "faq-helper.webp",
+      "source": "04-Soalan-lazim.png",
+      "box": [
+        20,
+        945,
+        235,
+        1169
+      ],
+      "width": 215,
+      "height": 224,
+      "bytes": 46434,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Illustrative person, not actual staff identity."
+    },
+    {
+      "name": "blog-feature",
+      "file": "blog-feature.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        27,
+        518,
+        442,
+        820
+      ],
+      "width": 415,
+      "height": 302,
+      "bytes": 112440,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "blog-rejected",
+      "file": "blog-rejected.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        27,
+        951,
+        271,
+        1111
+      ],
+      "width": 244,
+      "height": 160,
+      "bytes": 41800,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original document lettering retained as part of photo."
+    },
+    {
+      "name": "blog-budget",
+      "file": "blog-budget.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        288,
+        951,
+        532,
+        1111
+      ],
+      "width": 244,
+      "height": 160,
+      "bytes": 43052,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "blog-freelancer",
+      "file": "blog-freelancer.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        549,
+        951,
+        793,
+        1111
+      ],
+      "width": 244,
+      "height": 160,
+      "bytes": 43168,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "blog-guarantor",
+      "file": "blog-guarantor.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        27,
+        1293,
+        271,
+        1455
+      ],
+      "width": 244,
+      "height": 162,
+      "bytes": 48134,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "blog-timeline",
+      "file": "blog-timeline.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        288,
+        1293,
+        532,
+        1455
+      ],
+      "width": 244,
+      "height": 162,
+      "bytes": 39144,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "blog-scam",
+      "file": "blog-scam.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        549,
+        1293,
+        793,
+        1455
+      ],
+      "width": 244,
+      "height": 162,
+      "bytes": 44714,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "article-hero",
+      "file": "article-hero.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        29,
+        338,
+        790,
+        609
+      ],
+      "width": 761,
+      "height": 271,
+      "bytes": 204594,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "article-related-rejected",
+      "file": "article-related-rejected.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        36,
+        1682,
+        201,
+        1767
+      ],
+      "width": 165,
+      "height": 85,
+      "bytes": 19112,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "article-related-freelancer",
+      "file": "article-related-freelancer.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        433,
+        1682,
+        598,
+        1767
+      ],
+      "width": 165,
+      "height": 85,
+      "bytes": 17776,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "avatar-nadia",
+      "file": "avatar-nadia.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        55,
+        1131,
+        125,
+        1205
+      ],
+      "width": 70,
+      "height": 74,
+      "bytes": 6078,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Crop as circle with CSS; portrait is a fictional sample."
+    },
+    {
+      "name": "avatar-farhan",
+      "file": "avatar-farhan.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        540,
+        1131,
+        610,
+        1205
+      ],
+      "width": 70,
+      "height": 74,
+      "bytes": 7318,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Crop as circle with CSS; portrait is a fictional sample."
+    },
+    {
+      "name": "illustration-blog",
+      "file": "illustration-blog.webp",
+      "source": "05-Blog-listing.png",
+      "box": [
+        505,
+        126,
+        797,
+        321
+      ],
+      "width": 292,
+      "height": 195,
+      "bytes": 44700,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Includes approved pale-blue backdrop; match surrounding background color."
+    },
+    {
+      "name": "illustration-faq",
+      "file": "illustration-faq.webp",
+      "source": "04-Soalan-lazim.png",
+      "box": [
+        476,
+        131,
+        761,
+        333
+      ],
+      "width": 285,
+      "height": 202,
+      "bytes": 46040,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Includes approved pale-blue backdrop; match surrounding background color."
+    },
+    {
+      "name": "icon-chat",
+      "file": "icon-chat.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        111,
+        651,
+        181,
+        722
+      ],
+      "width": 70,
+      "height": 71,
+      "bytes": 4984,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-home-chat",
+      "file": "icon-home-chat.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        35,
+        821,
+        110,
+        894
+      ],
+      "width": 75,
+      "height": 73,
+      "bytes": 5426,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-home-car",
+      "file": "icon-home-car.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        370,
+        821,
+        444,
+        894
+      ],
+      "width": 74,
+      "height": 73,
+      "bytes": 5770,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-home-clipboard",
+      "file": "icon-home-clipboard.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        697,
+        821,
+        770,
+        894
+      ],
+      "width": 73,
+      "height": 73,
+      "bytes": 4938,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-car",
+      "file": "icon-car.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        111,
+        769,
+        181,
+        838
+      ],
+      "width": 70,
+      "height": 69,
+      "bytes": 4906,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-clipboard",
+      "file": "icon-clipboard.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        111,
+        882,
+        181,
+        951
+      ],
+      "width": 70,
+      "height": 69,
+      "bytes": 4458,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-handshake",
+      "file": "icon-handshake.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        111,
+        999,
+        181,
+        1068
+      ],
+      "width": 70,
+      "height": 69,
+      "bytes": 6566,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-document",
+      "file": "icon-document.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        43,
+        1187,
+        102,
+        1247
+      ],
+      "width": 59,
+      "height": 60,
+      "bytes": 3164,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-folder",
+      "file": "icon-folder.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        43,
+        1357,
+        102,
+        1417
+      ],
+      "width": 59,
+      "height": 60,
+      "bytes": 2812,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-wallet",
+      "file": "icon-wallet.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        437,
+        1187,
+        498,
+        1247
+      ],
+      "width": 61,
+      "height": 60,
+      "bytes": 3524,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-check-circle",
+      "file": "icon-check-circle.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        437,
+        1357,
+        498,
+        1417
+      ],
+      "width": 61,
+      "height": 60,
+      "bytes": 4948,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-credit-check",
+      "file": "icon-credit-check.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        29,
+        935,
+        93,
+        999
+      ],
+      "width": 64,
+      "height": 64,
+      "bytes": 3860,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-coins",
+      "file": "icon-coins.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        29,
+        1027,
+        93,
+        1090
+      ],
+      "width": 64,
+      "height": 63,
+      "bytes": 4852,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-article-folder",
+      "file": "icon-article-folder.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        29,
+        1116,
+        93,
+        1180
+      ],
+      "width": 64,
+      "height": 64,
+      "bytes": 3360,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-calculator",
+      "file": "icon-calculator.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        545,
+        1117,
+        589,
+        1176
+      ],
+      "width": 44,
+      "height": 59,
+      "bytes": 2884,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-book",
+      "file": "icon-book.webp",
+      "source": "04-Soalan-lazim.png",
+      "box": [
+        43,
+        1557,
+        158,
+        1669
+      ],
+      "width": 115,
+      "height": 112,
+      "bytes": 8310,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original pale circle halo included."
+    },
+    {
+      "name": "icon-info",
+      "file": "icon-info.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        47,
+        650,
+        80,
+        682
+      ],
+      "width": 33,
+      "height": 32,
+      "bytes": 2246,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-source-book",
+      "file": "icon-source-book.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        46,
+        1493,
+        77,
+        1524
+      ],
+      "width": 31,
+      "height": 31,
+      "bytes": 1484,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-trust-check",
+      "file": "icon-trust-check.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        99,
+        659,
+        130,
+        690
+      ],
+      "width": 31,
+      "height": 31,
+      "bytes": 1668,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Blue circle check matches approved trust strip."
+    },
+    {
+      "name": "icon-small-check",
+      "file": "icon-small-check.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        40,
+        1249,
+        60,
+        1271
+      ],
+      "width": 20,
+      "height": 22,
+      "bytes": 1054,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-quote",
+      "file": "icon-quote.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        54,
+        1016,
+        96,
+        1050
+      ],
+      "width": 42,
+      "height": 34,
+      "bytes": 2350,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-search",
+      "file": "icon-search.webp",
+      "source": "04-Soalan-lazim.png",
+      "box": [
+        67,
+        354,
+        92,
+        381
+      ],
+      "width": 25,
+      "height": 27,
+      "bytes": 1276,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Circle and handle extracted from approved search field."
+    },
+    {
+      "name": "icon-link",
+      "file": "icon-link.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        660,
+        293,
+        697,
+        326
+      ],
+      "width": 37,
+      "height": 33,
+      "bytes": 2132,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-whatsapp",
+      "file": "icon-whatsapp.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        704,
+        293,
+        740,
+        326
+      ],
+      "width": 36,
+      "height": 33,
+      "bytes": 2244,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-share",
+      "file": "icon-share.webp",
+      "source": "06-Blog-article-detail.png",
+      "box": [
+        747,
+        293,
+        783,
+        326
+      ],
+      "width": 36,
+      "height": 33,
+      "bytes": 1586,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-plus",
+      "file": "icon-plus.webp",
+      "source": "04-Soalan-lazim.png",
+      "box": [
+        763,
+        766,
+        781,
+        789
+      ],
+      "width": 18,
+      "height": 23,
+      "bytes": 680,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": ""
+    },
+    {
+      "name": "icon-arrow",
+      "file": "icon-arrow.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        239,
+        552,
+        259,
+        575
+      ],
+      "width": 20,
+      "height": 23,
+      "bytes": 836,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "White arrow from CTA. Blue background retained for blue-button placement."
+    },
+    {
+      "name": "background-road-waves",
+      "file": "background-road-waves.webp",
+      "source": "01-Homepage.png",
+      "box": [
+        350,
+        1410,
+        1007,
+        1484
+      ],
+      "width": 657,
+      "height": 74,
+      "bytes": 26994,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Exact clean lower road-curve strip; use as decorative bottom-positioned layer, not full-section stretching."
+    },
+    {
+      "name": "background-story-right",
+      "file": "background-story-right.webp",
+      "source": "03-Cerita-pelanggan.png",
+      "box": [
+        704,
+        191,
+        820,
+        379
+      ],
+      "width": 116,
+      "height": 188,
+      "bytes": 11740,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Clean upper-right waves; background-position:right bottom."
+    },
+    {
+      "name": "background-cta-right",
+      "file": "background-cta-right.webp",
+      "source": "02-Cara-kami-bantu.png",
+      "box": [
+        682,
+        1630,
+        819,
+        1858
+      ],
+      "width": 137,
+      "height": 228,
+      "bytes": 15260,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original clean right-side background wedge; use at right edge."
+    },
+    {
+      "name": "logo",
+      "file": "logo.webp",
+      "source": "TemanAuto-logo.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 423776,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "note": "Original high-resolution transparent symbol. Typeset wordmark separately."
+    },
+    {
+      "name": "background-cta-full",
+      "file": "background-cta-full.webp",
+      "width": 2172,
+      "height": 724,
+      "bytes": 692762,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "source": "Built-in ImageGen reconstruction",
+      "note": "Generated sibling; original extracted artwork remains available."
+    },
+    {
+      "name": "home-hero-hq",
+      "file": "home-hero-hq.webp",
+      "width": 1291,
+      "height": 1218,
+      "bytes": 1965376,
+      "encoding": "lossless WebP",
+      "decoded_pixels_match": true,
+      "source": "Built-in ImageGen reconstruction",
+      "note": "Generated sibling; original extracted artwork remains available."
+    },
+    {
+      "name": "logo-128",
+      "file": "logo-128.webp",
+      "width": 128,
+      "height": 128,
+      "bytes": 11048,
+      "encoding": "lossless WebP after intentional downsampling",
+      "decoded_pixels_match": true,
+      "source": "logo.webp",
+      "note": "Responsive serving derivative; original retained."
+    },
+    {
+      "name": "logo-256",
+      "file": "logo-256.webp",
+      "width": 256,
+      "height": 256,
+      "bytes": 29960,
+      "encoding": "lossless WebP after intentional downsampling",
+      "decoded_pixels_match": true,
+      "source": "logo.webp",
+      "note": "Responsive serving derivative; original retained."
+    }
+  ],
+  "extraction_method": "Exact crops from approved raster artwork. Lossless WebP compression with decoded-pixel equality checks.",
+  "limitations": [
+    "Photos and most icons exist only inside low-resolution approved page artwork; lossless extraction cannot create additional native detail.",
+    "Hero slogan and illustration badges are baked into source photos and retained intentionally for visual fidelity.",
+    "Use CSS rounded clipping and exact aspect ratios to avoid double frames or altered crops.",
+    "Photo movement should be subtle: large parallax movement would change approved composition.",
+    "The full background layer beneath text is unavailable. Clean strips and edge wedges preserve actual artwork; broader full-bleed reconstruction may need generation or a measured decorative path.",
+    "Raster icons include original pale tile backgrounds and can be enlarged modestly but are not vector originals."
+  ]
+}
