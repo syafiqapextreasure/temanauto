@@ -1,0 +1,407 @@
+{
+  "story-nadia": {
+    "width": 1310,
+    "height": 1201,
+    "file": "story-nadia-v2-1310.webp",
+    "variants": [
+      {
+        "file": "story-nadia-v2-640.webp",
+        "width": 640,
+        "height": 587,
+        "bytes": 513396
+      },
+      {
+        "file": "story-nadia-v2-1200.webp",
+        "width": 1200,
+        "height": 1100,
+        "bytes": 1595512
+      },
+      {
+        "file": "story-nadia-v2-1310.webp",
+        "width": 1310,
+        "height": 1201,
+        "bytes": 1817484
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "story-farhan": {
+    "width": 1755,
+    "height": 896,
+    "file": "story-farhan-v2-1755.webp",
+    "variants": [
+      {
+        "file": "story-farhan-v2-640.webp",
+        "width": 640,
+        "height": 327,
+        "bytes": 274562
+      },
+      {
+        "file": "story-farhan-v2-1200.webp",
+        "width": 1200,
+        "height": 613,
+        "bytes": 839916
+      },
+      {
+        "file": "story-farhan-v2-1755.webp",
+        "width": 1755,
+        "height": 896,
+        "bytes": 1653770
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "story-siti": {
+    "width": 1762,
+    "height": 892,
+    "file": "story-siti-v2-1762.webp",
+    "variants": [
+      {
+        "file": "story-siti-v2-640.webp",
+        "width": 640,
+        "height": 324,
+        "bytes": 288046
+      },
+      {
+        "file": "story-siti-v2-1200.webp",
+        "width": 1200,
+        "height": 607,
+        "bytes": 903352
+      },
+      {
+        "file": "story-siti-v2-1762.webp",
+        "width": 1762,
+        "height": 892,
+        "bytes": 1785850
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-budget": {
+    "width": 2006,
+    "height": 784,
+    "file": "blog-budget-v2-2006.webp",
+    "variants": [
+      {
+        "file": "blog-budget-v2-640.webp",
+        "width": 640,
+        "height": 250,
+        "bytes": 176298
+      },
+      {
+        "file": "blog-budget-v2-1200.webp",
+        "width": 1200,
+        "height": 469,
+        "bytes": 621852
+      },
+      {
+        "file": "blog-budget-v2-2006.webp",
+        "width": 2006,
+        "height": 784,
+        "bytes": 1704576
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-rejected": {
+    "width": 2098,
+    "height": 749,
+    "file": "blog-rejected-v2-2098.webp",
+    "variants": [
+      {
+        "file": "blog-rejected-v2-640.webp",
+        "width": 640,
+        "height": 228,
+        "bytes": 168698
+      },
+      {
+        "file": "blog-rejected-v2-1200.webp",
+        "width": 1200,
+        "height": 428,
+        "bytes": 603508
+      },
+      {
+        "file": "blog-rejected-v2-2098.webp",
+        "width": 2098,
+        "height": 749,
+        "bytes": 1800462
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-freelancer": {
+    "width": 2098,
+    "height": 749,
+    "file": "blog-freelancer-v2-2098.webp",
+    "variants": [
+      {
+        "file": "blog-freelancer-v2-640.webp",
+        "width": 640,
+        "height": 228,
+        "bytes": 193242
+      },
+      {
+        "file": "blog-freelancer-v2-1200.webp",
+        "width": 1200,
+        "height": 428,
+        "bytes": 593982
+      },
+      {
+        "file": "blog-freelancer-v2-2098.webp",
+        "width": 2098,
+        "height": 749,
+        "bytes": 1581494
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-guarantor": {
+    "width": 2079,
+    "height": 756,
+    "file": "blog-guarantor-v2-2079.webp",
+    "variants": [
+      {
+        "file": "blog-guarantor-v2-640.webp",
+        "width": 640,
+        "height": 233,
+        "bytes": 191742
+      },
+      {
+        "file": "blog-guarantor-v2-1200.webp",
+        "width": 1200,
+        "height": 436,
+        "bytes": 605748
+      },
+      {
+        "file": "blog-guarantor-v2-2079.webp",
+        "width": 2079,
+        "height": 756,
+        "bytes": 1638632
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-timeline": {
+    "width": 2098,
+    "height": 749,
+    "file": "blog-timeline-v2-2098.webp",
+    "variants": [
+      {
+        "file": "blog-timeline-v2-640.webp",
+        "width": 640,
+        "height": 228,
+        "bytes": 159188
+      },
+      {
+        "file": "blog-timeline-v2-1200.webp",
+        "width": 1200,
+        "height": 428,
+        "bytes": 524698
+      },
+      {
+        "file": "blog-timeline-v2-2098.webp",
+        "width": 2098,
+        "height": 749,
+        "bytes": 1473430
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-scam": {
+    "width": 2097,
+    "height": 750,
+    "file": "blog-scam-v2-2097.webp",
+    "variants": [
+      {
+        "file": "blog-scam-v2-640.webp",
+        "width": 640,
+        "height": 229,
+        "bytes": 164180
+      },
+      {
+        "file": "blog-scam-v2-1200.webp",
+        "width": 1200,
+        "height": 429,
+        "bytes": 604740
+      },
+      {
+        "file": "blog-scam-v2-2097.webp",
+        "width": 2097,
+        "height": 750,
+        "bytes": 1848366
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "article-hero": {
+    "width": 2098,
+    "height": 749,
+    "file": "article-hero-v2-2098.webp",
+    "variants": [
+      {
+        "file": "article-hero-v2-640.webp",
+        "width": 640,
+        "height": 228,
+        "bytes": 178842
+      },
+      {
+        "file": "article-hero-v2-1200.webp",
+        "width": 1200,
+        "height": 428,
+        "bytes": 560190
+      },
+      {
+        "file": "article-hero-v2-2098.webp",
+        "width": 2098,
+        "height": 749,
+        "bytes": 1515348
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "blog-feature": {
+    "width": 1470,
+    "height": 1070,
+    "file": "blog-feature-v2-1470.webp",
+    "variants": [
+      {
+        "file": "blog-feature-v2-640.webp",
+        "width": 640,
+        "height": 466,
+        "bytes": 296820
+      },
+      {
+        "file": "blog-feature-v2-1200.webp",
+        "width": 1200,
+        "height": 873,
+        "bytes": 1046804
+      },
+      {
+        "file": "blog-feature-v2-1470.webp",
+        "width": 1470,
+        "height": 1070,
+        "bytes": 1491106
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "home-hero": {
+    "width": 1291,
+    "height": 1218,
+    "file": "home-hero-v2-1291.webp",
+    "variants": [
+      {
+        "file": "home-hero-v2-640.webp",
+        "width": 640,
+        "height": 604,
+        "bytes": 540852
+      },
+      {
+        "file": "home-hero-v2-1200.webp",
+        "width": 1200,
+        "height": 1132,
+        "bytes": 1750906
+      },
+      {
+        "file": "home-hero-v2-1291.webp",
+        "width": 1291,
+        "height": 1218,
+        "bytes": 1965376
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "logo-128": {
+    "width": 1254,
+    "height": 1254,
+    "file": "logo-blue-v2-1254.webp",
+    "variants": [
+      {
+        "file": "logo-blue-v2-128.webp",
+        "width": 128,
+        "height": 128,
+        "bytes": 8500
+      },
+      {
+        "file": "logo-blue-v2-256.webp",
+        "width": 256,
+        "height": 256,
+        "bytes": 25344
+      },
+      {
+        "file": "logo-blue-v2-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 370740
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "article-related-rejected": {
+    "width": 2098,
+    "height": 749,
+    "file": "blog-rejected-v2-2098.webp",
+    "variants": [
+      {
+        "file": "blog-rejected-v2-640.webp",
+        "width": 640,
+        "height": 228,
+        "bytes": 168698
+      },
+      {
+        "file": "blog-rejected-v2-1200.webp",
+        "width": 1200,
+        "height": 428,
+        "bytes": 603508
+      },
+      {
+        "file": "blog-rejected-v2-2098.webp",
+        "width": 2098,
+        "height": 749,
+        "bytes": 1800462
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  },
+  "article-related-freelancer": {
+    "width": 2098,
+    "height": 749,
+    "file": "blog-freelancer-v2-2098.webp",
+    "variants": [
+      {
+        "file": "blog-freelancer-v2-640.webp",
+        "width": 640,
+        "height": 228,
+        "bytes": 193242
+      },
+      {
+        "file": "blog-freelancer-v2-1200.webp",
+        "width": 1200,
+        "height": 428,
+        "bytes": 593982
+      },
+      {
+        "file": "blog-freelancer-v2-2098.webp",
+        "width": 2098,
+        "height": 749,
+        "bytes": 1581494
+      }
+    ],
+    "encoding": "lossless WebP",
+    "source": "Built-in ImageGen reconstruction; details may differ from the raster reference."
+  }
+}

@@ -60,6 +60,6 @@ After launch, verify the domain in Google Search Console and submit `https://www
 
 ## Asset and design limits
 
-Original photos, illustrations and icons were extracted from the approved raster designs. WebP files use lossless encoding. This preserves the extracted pixels; it cannot recover detail absent from the supplied artwork. The generated road background is a close reconstruction of the obscured original. A higher-resolution generated hero alternative is retained but not served because it changes details of the approved car image.
+The logo now matches the cobalt-blue theme. Following the image-quality review, the home hero, three story photos, blog feature and all seven article banners use higher-resolution artwork with responsive lossless WebP versions. Article symbols use scalable SVG outlines. See `docs/image-upgrade.md` and `docs/responsive-assets.json` for provenance, dimensions and verification. Reconstructed photos preserve the scenes but may differ in fine detail from the original designs. Remaining extracted artwork and the reconstructed road background are retained.
 
 Inter is self-hosted and visually matched; the raster designs did not identify the original typeface. The implemented layout is close to the approved design, with responsive reflow, larger readable desktop type, accessible controls and extra footer information. It is not claimed to be a pixel-identical reproduction at every viewport.

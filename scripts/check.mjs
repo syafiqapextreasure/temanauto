@@ -25,6 +25,13 @@ for(const file of files){
   await access(dest);links++;
  }
  assert.ok(!html.includes('wa.me/601234'),`Placeholder phone: ${file}`);
+ for(const match of html.matchAll(/srcset="([^"]+)"/g)){
+  for(const candidate of match[1].split(',')){
+   const [url,width]=candidate.trim().split(/\s+/);
+   assert.match(width,/^\d+w$/);
+   await access(path.join(root,url.slice(1)));
+  }
+ }
 }
 const sitemap=await readFile(path.join(root,'sitemap.xml'),'utf8');
 assert.ok(!sitemap.includes('/cerita-pelanggan'));assert.ok(!sitemap.includes('/404'));
